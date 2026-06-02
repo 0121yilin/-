@@ -1,0 +1,6 @@
+{
+  "name": "Python 深度圖顯示腳本",
+  "description": "呼叫攝影機與模型，透過 OpenCV 並排顯示原始影像與深度圖的 main.py。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
